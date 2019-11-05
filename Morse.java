@@ -1,5 +1,5 @@
 /*
-Juan Carlos Ortiz de Montellano Bochelén A01656520
+Juan Carlos Ortiz de Montellano Bochelén
 Morse.Java
 This programm will read and decript a message in morse code
 */
